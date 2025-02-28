@@ -68,7 +68,7 @@ The thermostat’s Wi-Fi chip converts data into radio waves transmitted to the 
 
 - The thermostat’s Wi-Fi chip receives radio signals (Layer 1), validates the MAC address (Layer 2), and adjusts the temperature.
 
-# Part 2: Using a subnetting calculator to calculate subnets for a given IP range and document the results.
+# Part 3: Using a subnetting calculator to calculate subnets for a given IP range and document the results.
 
 ### Using **192.168.0.0/16** cidr IP range on https://cidr.xyz/, below is the results
 
